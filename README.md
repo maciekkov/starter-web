@@ -1,7 +1,7 @@
-# Starter Web Repo
+#Maciej Kowalski
 
-This repository is for showing how Git and GitHub work
+##Zarobki
 
-## Purpose
+##Cele
 
-Sample website with plenty of files for demos
+##Uwagi
